@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glendis20
 - 👀 I’m interested in keep learn everyday!
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular and Vue
 - 💞️ I’m looking to collaborate on various types of projects
 - 
 
